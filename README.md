@@ -199,4 +199,4 @@ Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter.
 
 ## Author
 
-**Your Name** · [GitHub](https://github.com/iannzee) · [LinkedIn](https://www.linkedin.com/in/iannzee7841/)
+**Ziyan Patel** · [GitHub](https://github.com/iannzee) · [LinkedIn](https://www.linkedin.com/in/iannzee7841/)
